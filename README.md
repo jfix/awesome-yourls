@@ -543,7 +543,7 @@ Make YOURLS work with other platforms, programming languages or tools.
 
 ### Sites running YOURLS with a unique design or concept
 
-- https://oe.cd/ - Europe OECD's internal URL shortener with a neat interface and private features.
+- https://oe.cd/ - The OECD's internal URL shortener with a neat interface and private features.
 - https://kiwi.gg/ - A sexy shortener home page with stats and details.
 - https://your.ls/ - Very neat public interface using [Sleeky](https://github.com/Flynntes/Sleeky) theme. Also a neat domain hack :)
 - https://yourwish.es/ - Easily share an Amazon wishlist.
